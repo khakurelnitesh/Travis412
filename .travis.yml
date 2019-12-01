@@ -4,6 +4,6 @@ jdk:
 notifications:
   email:
     recipients:
-      - nkhaku1@students.towson.edu
+      - nkhakurel995@gmail.com
     on_success: always # default: change
     on_failure: always # default: always
